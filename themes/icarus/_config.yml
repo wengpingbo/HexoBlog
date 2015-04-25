@@ -1,8 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  首页: /
+  存档: /archives
+  关于我: /about
 
 # Content
 excerpt_link: Read More
