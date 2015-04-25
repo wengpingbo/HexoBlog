@@ -4,19 +4,19 @@
 
 # Site
 title: Pingbo's Blog
-subtitle: Android / Linux
+subtitle: A farmer in source code
 description: Nothing here
 author: Pingbo
-author_title: Programmer
+author_title: 程序猿
 avatar: media/avatar.jpg
-follow: https://github.com/wengpingbo
+follow: http://www.zhihu.com/people/wen-ping-bo
 location: 'Zhuhai, China'
 language: zh-CN
 timezone: Asia/Chongqing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.miopeco.com
+url: http://blog.miopeco.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,7 +64,7 @@ feed:
   limit: 20
 
 #Disqus
-disqus_shortname: test
+disqus_shortname: miopecolab
 
 # Pagination
 ## Set per_page to 0 to disable pagination
