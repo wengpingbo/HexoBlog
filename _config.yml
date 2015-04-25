@@ -58,10 +58,6 @@ tag_map:
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
-# hexo-renderer-marked
-marked:
-  mediapath: media
-
 feed:
   type: atom
   path: atom.xml
