@@ -123,6 +123,8 @@ $nav-link
       line-height: logo-size
 
 #search-form-wrap
+  @media print
+    display: none !important
   @media mq-mini
     display: none
   @extend $header-block

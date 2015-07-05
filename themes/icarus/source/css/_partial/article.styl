@@ -187,6 +187,8 @@
 #article-nav
   clearfix()
   position: relative
+  @media print
+    display: none !important
   @media mq-normal
     margin: block-margin 0
     &:before
