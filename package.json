@@ -17,6 +17,7 @@
     "hexo-server": "^0.1.2",
     "hexo-generator-feed": "^1.0.1",
     "hexo-generator-sitemap": "^1.0.1",
-    "hexo-deployer-git": "0.0.4"
+    "hexo-deployer-git": "0.0.4",
+    "hexo-toc": "0.0.5"
   }
 }
